@@ -18,7 +18,7 @@ Note: I am presently reaching out to teams and people involved in the projects b
 
 TL;DR Below is a tangled treasure-trove of remote dev collaborations from the Chingu cohorts. Special shout-out and thanks to Freecodecamp for being awesome.  
 
-If you haven't heard of Freecodecamp, I don't believe you (no just joking, you can find them [here](www.freecodecamp.com)). <br>
+If you haven't heard of Freecodecamp, I don't believe you (no just joking, you can find them [here](https://www.freecodecamp.com)). <br>
 If you want to try out a cohort, you can learn more about us [here](https://chingu-cohorts.github.io/chingu-directory/). 
 
 Enjoy, 
