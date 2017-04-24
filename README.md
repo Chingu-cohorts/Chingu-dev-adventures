@@ -658,3 +658,7 @@ So, the Patakey app wasn't a team project, but it demands a place on this list n
 
 **Sneak preview**:  Coding challenges + online treasure hunt + awesome people. I've heard word it's coming soon. 
 
+## -> Campfire-Stories Part 2
+
+**Sneak preview**: Refactored, fixed-up, features taken away, features added. Coming very soon.  
+
