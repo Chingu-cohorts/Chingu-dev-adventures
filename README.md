@@ -27,7 +27,7 @@ Chance
 
 # Finished projects
 
-## 56 -> [Chingu Runner](https://chingurunner.herokuapp.com/) 
+## 57 -> [Chingu Runner](https://chingurunner.herokuapp.com/) 
 
 **Project Description**: A slack-bot tailor made for the [FreeCodeCamp Speedrun.](https://medium.com/chingu-fcc-speedrun) Post your goal for the day and tell the bot when you're finished. Runner collects all the finished goals and posts them all to its home channel once a day. It's minimal, elegant and wonderful. 
 
@@ -38,7 +38,7 @@ Chance
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2FChingu%20runner.png?alt=media&token=302704b3-b089-4730-87f1-7e7080daafec "Optional title")
   
   
-## 54 -> [Web-Tao Momentum Pivot](https://chrome.google.com/webstore/detail/webtao-app/cladmbfoepgnmcnbfccgdamgheibneej) 
+## 56 -> [Web-Tao Momentum Pivot](https://chrome.google.com/webstore/detail/webtao-app/cladmbfoepgnmcnbfccgdamgheibneej) 
 
 **Project Description**: An iteration of the Momentum App. Personal organiser with a WebDev touch.  Hone your skills by accessing CodeWars algorithms from the extension.
 
@@ -48,7 +48,7 @@ Chance
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fwebtao.png?alt=media&token=02e6c648-281c-49b9-ae75-586198d2f4e9 "Optional title")
 
-## 53 -> Alfred
+## 55 -> Alfred
 
 **Project Description**: Alfred is a slack bot that will tell you the time anywhere in the world. 
 
@@ -58,7 +58,7 @@ Chance
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Falfred.png?alt=media&token=6a2f2e3f-a6d8-4d89-8fe9-eb45a6eb24df "Optional title")
 
-## 52 -> [We are Orb - Data Science Magazine](https://medium.com/we-are-orb) 
+## 54 -> [We are Orb - Data Science Magazine](https://medium.com/we-are-orb) 
 
 **Project Description**: An Online Data Science Magazine Community.
 
@@ -71,7 +71,7 @@ Check out the first article [Introducing "We are Orb Community".](https://medium
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2FWeareORB.png?alt=media&token=548993d7-d1a2-4ac5-bfd4-730ceeaa7099 "Optional title")
 
-## 50 -> [Team Air-Walkers' Gif bot](https://air-walkers.github.io/giphy-slack-bot/) 
+## 53 -> [Team Air-Walkers' Gif bot](https://air-walkers.github.io/giphy-slack-bot/) 
 
 **Project Description**: A Slack Commands Bot build with Node JS and the Giphy API. Share animated GIF's with your team mates on Slack.
 
@@ -81,7 +81,7 @@ Check out the first article [Introducing "We are Orb Community".](https://medium
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fgifbot.png?alt=media&token=4a810de3-04fd-4c56-bd5c-a9591a146cdd "Optional title")
 
-## 55 -> [SoundReact](http://soundreact.surge.sh/) 
+## 52 -> [SoundReact](http://soundreact.surge.sh/) 
 
 **Project Description**: A reverse-engineering of Soundcloud (MVP finished but development ongoing). 
 
@@ -325,7 +325,7 @@ MDNbot was also [showcased on the claudia-bot-builder repo!](https://github.com/
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fmdnbot.png?alt=media&token=f47e4e72-8562-4a56-b2b4-f5880525bcc8 "Optional title")
 
 
-## 25 -> That time @nickolaos submitted a PR to a Kyle Simpson's repo and he accepted 
+## 1111 -> That time @nickolaos submitted a PR to a Kyle Simpson's repo and he accepted 
 
 **Project Description**: I'll leave that up to the screenshot below ;p
 
