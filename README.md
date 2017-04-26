@@ -89,6 +89,9 @@ Check out the first article [Introducing "We are Orb Community".](https://medium
 
 **Project Leads**: @mahaveer, big shout-out to @vera for the help! 
 
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2FSound%20react.png?alt=media&token=b4a1a220-f11f-4cbd-a48c-197419528844 "Optional title")
+
+
 ## 51 -> Design Monks Collective 
 
 **Project Description**: A design learning collective/ support group inside the Chingu cohorts. 
