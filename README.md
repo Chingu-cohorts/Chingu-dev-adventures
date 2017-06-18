@@ -79,7 +79,7 @@ Enjoy,
 
 **Project Description**: Updating in progress... 
 
-## 80 -> [Chingu-AMA is born feat. Senior Dev Andy](https://medium.com/@icartusacrimea/chingu-senior-dev-guest-ama-no-1-309f8fdb68b2) 
+## 80 -> [Chingu-AMA is born feat. Senior Dev Andy Glassman](https://medium.com/@icartusacrimea/chingu-senior-dev-guest-ama-no-1-309f8fdb68b2) 
 
 **Project Description**: Updating in progress...
 
