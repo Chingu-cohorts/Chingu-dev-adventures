@@ -25,7 +25,156 @@ Enjoy,
 
 @chance 
 
-# Finished projects
+# Finished projects/ Milestones
+
+## 93 -> [Organic Full-stack - Libru](https://libru1.herokuapp.com/) 
+
+**Project Description**: Updating in progress...
+
+## 92 -> [Milestone: Chingu launches 1st Data Science cohort](#) 
+
+**Project Description**: Updating in progress...
+
+## 91 -> [Overheard in Chingu launched](https://medium.com/chingu/overheard-in-chingu-pt-1-52031c0fb50) 
+
+**Project Description**: Updating in progress...
+
+## 90 -> [Organic Full-stack: JoyJS](#) 
+
+**Project Description**: Updating in progress...
+
+## 89 -> [Milestone: 14 Chingu Cohorts launched in 1 week (600+ coders/builders!!)](https://medium.com/chingu/chingu-weekly-vol-32-d3dd23ca6e1a) 
+
+**Project Description**: Updating in progress...
+
+## 88 -> [Amir completes the Chingu-FCC Speedrun!](https://medium.com/chingu-fcc-speedrun/chingu-fcc-speedrun-challenge-final-portfolio-f3d2ec94f20) 
+
+**Project Description**: Updating in progress...
+
+## 87 -> [Chingu AMA #2 feat. Quincy Larson, founder of FreeCodeCamp](https://medium.com/@icartusacrimea/quincy-larson-chingu-senior-dev-guest-ama-no-2-551c8ce73232) 
+
+**Project Description**: Updating in progress...
+
+## 86 -> [Organic - Matchbot using the Watson's AI API](https://slackmatchbot.herokuapp.com/) 
+
+**Project Description**: Updating in progress...
+
+## 85 -> [Operation Dagobah begins aka Cohort-Leads](https://giphy.com/gifs/dancing-dance-star-wars-6fScAIQR0P0xW) 
+
+**Project Description**: Updating in progress...
+
+## 84 -> [B2L - FCC-bot](http://slack-fccbot.herokuapp.com/) 
+
+**Project Description**: Updating in progress...
+
+## 83 -> [Organic - Slack n Study](https://pankaja-shree.github.io/sns-splash/) 
+
+**Project Description**: Updating in progress...
+
+## 82 -> [B2L - Temere Team-Name Generator bot](https://github.com/sego90/temere/) 
+
+**Project Description**: Updating in progress...
+
+## 81 -> [B2L - Super ToDo bot](https://super-todo-bot.herokuapp.com/) 
+
+**Project Description**: Updating in progress... 
+
+## 80 -> [Chingu-AMA is born feat. Senior Dev Andy](https://medium.com/@icartusacrimea/chingu-senior-dev-guest-ama-no-1-309f8fdb68b2) 
+
+**Project Description**: Updating in progress...
+
+## 79 -> [B2L - Trello API project](https://fentablar.github.io/xtal/) 
+
+**Project Description**: Updating in progress...
+
+## 78 -> [B2L - Team Nigeria's LE BOT](https://github.com/afixoftrix/Chingu-Projects) 
+
+**Project Description**: Updating in progress...
+
+## 77 -> [B2L - Reverse Enginnering of Momentum chrome app](https://github.com/ethanchoi812/momentum) 
+
+**Project Description**: Updating in progress... 
+
+## 76 -> [B2L - NavBuddy](https://spark72018.github.io/travelBot/) 
+
+**Project Description**: Updating in progress...: 
+
+## 75 -> [Organic - Slack Private Channel Bulk Inviter](https://matthew-burfield.github.io/private-channel-invite/) 
+
+**Project Description**: Updating in progress...
+
+## 74 -> [B2L- Momentum reverse-engineering](https://serene-stream-26049.herokuapp.com/) 
+
+**Project Description**: Updating in progress... 
+
+## 73 -> [Organic - Enron Data-set Fiesta](https://beemyfriend.github.io/Articles/exploring_enron_emails.html) 
+
+**Project Description**: Updating in progress...
+
+## 72 -> [B2L - Paypal Clone Using React](https://github.com/chingu-coders/paypal-otters) 
+
+**Project Description**: Updating in progress... 
+
+## 71 -> [B2L - qBot Landing Page](https://github.com/diemano/qbot) 
+
+**Project Description**: Updating in progress...
+
+## 70 -> [B2L - SaBOTage](https://sabotage-rhinos.herokuapp.com/) 
+
+**Project Description**: Updating in progress...
+
+## 69 -> [B2L - Headline-bot](https://github.com/roxroy/laroxbot) 
+
+**Project Description**: Updating in progress...
+
+## 68 -> [B2L - Croak-bot Landing Page](https://chingusplashpage.github.io/SplashPage/) 
+
+**Project Description**: Updating in progress...
+
+## 67 -> [B2L - Paypal Clone](https://github.com/chingu-coders/otters-b2l-splash-team-8) 
+
+**Project Description**: Updating in progress... 
+
+## 66 -> [B2L - Dexter Bot Genius](http://jrhayes.space/springc/spring.html) 
+
+**Project Description**: Updating in progress...
+
+## 65 -> [B2L - The Grass Website](http://hucees.com/mayOtters/) 
+
+**Project Description**: Updating in progress...
+
+## 64 -> [B2L - Splash-page Clone](https://github.com/celier/BTL-splash_page) 
+
+**Project Description**: Updating in progress... 
+
+## 63 -> [BTL - QUOTES](https://github.com/Geist0504/BTL-Quotes/) 
+
+**Project Description**: Updating in progress... 
+
+## 62 -> [Jenovs completes the Chingu-FCC Speedrun Challenge](https://fcc-speedrun.jenovs.com/) 
+
+**Project Description**: Updating in progress...
+
+## 61 -> [Futuristic Flamingos - Lionsbot Clone](https://futuristicflamingos.github.io/Lion-Bot_SplashPage/) 
+
+**Project Description**: Updating in progress...
+
+## 60 -> [Bart-Bot Splash Page Template](https://shielded-shore-86912.herokuapp.com/#about) 
+
+**Project Description**: Updating in progress...
+
+## 59 -> [Pengo-clone-bot](https://github.com/cuppilekkia/pengo-clone-bot) 
+
+**Project Description**: Updating in progress... 
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2FChingu%20runner.png?alt=media&token=302704b3-b089-4730-87f1-7e7080daafec "Optional title")
+
+## 58 -> [Portal-app](https://slackteamportal.herokuapp.com/) 
+
+**Project Description**: Updating in progress... 
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2FChingu%20runner.png?alt=media&token=302704b3-b089-4730-87f1-7e7080daafec "Optional title")
+
 
 ## 57 -> [Chingu Runner](https://chingurunner.herokuapp.com/) 
 
