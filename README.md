@@ -55,7 +55,7 @@ Enjoy,
 
 **Project Description**: Updating in progress...
 
-## 86 -> [Organic - Matchbot using the Watson's AI API](https://slackmatchbot.herokuapp.com/) 
+## 86 -> [Organic - Matchbot using IBM's AI Watson's API](https://slackmatchbot.herokuapp.com/) 
 
 **Project Description**: Updating in progress...
 
