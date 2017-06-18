@@ -27,11 +27,11 @@ Enjoy,
 
 # Finished projects/ Milestones
 
-## 93 -> [Organic Full-stack - Libru](https://libru1.herokuapp.com/) 
+## 93 -> Organic Full-stack - [Libru](https://libru1.herokuapp.com/) 
 
 **Project Description**: Updating in progress...
 
-## 92 -> [Milestone: Chingu launches 1st Data Science cohort](#) 
+## 92 -> Milestone: [Chingu launches 1st Data Science cohort](#) 
 
 **Project Description**: Updating in progress...
 
@@ -39,11 +39,11 @@ Enjoy,
 
 **Project Description**: Updating in progress...
 
-## 90 -> [Organic Full-stack: JoyJS](#) 
+## 90 -> Organic Full-stack - [JoyJS](#) 
 
 **Project Description**: Updating in progress...
 
-## 89 -> [Milestone: 14 Chingu Cohorts launched in 1 week (600+ coders/builders!!)](https://medium.com/chingu/chingu-weekly-vol-32-d3dd23ca6e1a) 
+## 89 -> Milestone: [14 Chingu Cohorts launched in 1 week (600+ coders/builders!!)](https://medium.com/chingu/chingu-weekly-vol-32-d3dd23ca6e1a) 
 
 **Project Description**: Updating in progress...
 
