@@ -23,7 +23,7 @@ If you haven't heard of Freecodecamp, I don't believe you (no just joking, you c
 
 Enjoy, 
 
-@chance 
+[@chance](https://medium.com/@tropicalchancer) 
 
 # Finished projects/ Milestones
 
