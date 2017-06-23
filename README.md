@@ -8,24 +8,29 @@ _“We are made to create. We feel useful when we create. We release our ‘stuc
 
 # What is this place? 
 
-This mini dev-adventure README is kind of like one of those Indiana Jones jungle temples, but filled with tales of learning quests and links to mysterious repos instead of gems and ancient trinkets.  
+This README is kind of like one of those Indiana Jones jungle temples, but filled with tales of learning quests and links to mysterious repos instead of gems and ancient trinkets. It's where we show all the finished projects from the Chingu ecosystem.  
+**This README is an ever-growing ode to people coming together to learn and build**. Each project, no matter how ambitious or playful, represents strangers from across the world who came together to build something.  
 
-**You could also think of this as a living and ever-growing ode to people coming together to learn and build**. Each project, no matter how ambitious or playful, represents strangers from across the world who came together to create something. There's something special in that, and it's why I believe each collaborative project deserves its place in this rambunctious repo.  
+# What is the mission? 
 
-What you see below are the projects that have been finished. Below the finished projects, you can find the Upcoming larger projects for a sneak peak. Over half of the finished projects on this list were completed in the last month or so. Our goal is to have over 200 entries by the next Winter Olympics in South Korea (2018). Chingu's moonshot is to have 1000 projects in here by the Olymics in Tokyo (2020). Think that's crazy? Well, I am inclined to agree. ;p 
-  
-Note: I am presently reaching out to teams and people involved in the projects below to get more specific details. Consider this wild list as a work-in-progress, and will be improved (as well as missing info be added) as we go along. If I've missed anything (almost guaranteed that I have), please DM me to let me know. 
+1) To get 200 projects in here by the winter Olympics in South Korea (2018). 
 
-TL;DR Below is a tangled treasure-trove of remote dev collaborations from the Chingu cohorts. Special shout-out and thanks to Freecodecamp for being awesome. It's safe to say that the vision and spirit of FCC is what has made the below possible in the first place.  
+2) To have 1000 projects in here by the following Olympics in Tokyo, Japan (2020). 
 
-If you haven't heard of Freecodecamp, I don't believe you (no just joking, you can find them [here](https://www.freecodecamp.com)). <br>
-If you want to try out a Chingu cohort, you can learn more about us [here](https://chingu-cohorts.github.io/chingu-directory/). 
+If you want to join a Chingu cohort, you can learn more about us [here](https://chingu-cohorts.github.io/chingu-directory/)
+
+If you haven't heard of Freecodecamp, I don't believe you (no just joking, you can find them [here](https://www.freecodecamp.com)). <br> 
 
 Enjoy, 
 
 @chance 
 
 # Finished projects/ Milestones
+
+## 93 -> B2L Full-stack - [Codeploy](https://codeploy.herokuapp.com/) 
+
+**Project Description**: Updating in progress...
+
 
 ## 93 -> Organic Full-stack - [Libru](https://libru1.herokuapp.com/) 
 
