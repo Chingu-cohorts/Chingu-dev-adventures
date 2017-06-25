@@ -27,10 +27,9 @@ Enjoy,
 
 # Finished projects/ Milestones
 
-## 93 -> B2L Full-stack - [Codeploy](https://codeploy.herokuapp.com/) 
+## 94 -> B2L Full-stack - [Codeploy](https://codeploy.herokuapp.com/) 
 
 **Project Description**: Updating in progress...
-
 
 ## 93 -> Organic Full-stack - [Libru](https://libru1.herokuapp.com/) 
 
