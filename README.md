@@ -8,8 +8,9 @@ _“We are made to create. We feel useful when we create. We release our ‘stuc
 
 # What is this place? 
 
-This README is kind of like one of those Indiana Jones jungle temples, but filled with tales of learning quests and links to mysterious repos instead of gems and ancient trinkets. It's where we show all the finished projects from the Chingu ecosystem.  
-**This README is an ever-growing ode to people coming together to learn and build**. Each project, no matter how ambitious or playful, represents strangers from across the world who came together to build something.  
+This README is kind of like one of those Indiana Jones jungle temples, but filled with tales of learning quests and links to mysterious repos instead of gems and ancient trinkets. It's where we show all the finished projects from the Chingu ecosystem. 
+
+It's an ever-growing ode to people coming together to learn and build. Each project, no matter how ambitious or playful, represents strangers from across the world who came together to build something.  
 
 # What is the mission? 
 
