@@ -172,14 +172,9 @@ Enjoy,
 
 **Project Description**: Updating in progress... 
 
-![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2FChingu%20runner.png?alt=media&token=302704b3-b089-4730-87f1-7e7080daafec "Optional title")
-
 ## 58 -> [Portal-app](https://slackteamportal.herokuapp.com/) 
 
 **Project Description**: Updating in progress... 
-
-![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2FChingu%20runner.png?alt=media&token=302704b3-b089-4730-87f1-7e7080daafec "Optional title")
-
 
 ## 57 -> [Chingu Runner](https://chingurunner.herokuapp.com/) 
 
