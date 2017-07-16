@@ -1,6 +1,6 @@
 # 친구
 
-![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2Fprojectsrepo.png?alt=media&token=966f8d4b-c666-4403-b082-dba6bd7ee668 "Optional title")
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/b2l.png?alt=media&token=030948ed-2a9c-4828-9b93-280043c07d8f "Optional title")
 <br>
 [Photograph by: Laurie-Anne Robert](https://unsplash.com/@laurieannerobert)
 
