@@ -29,31 +29,54 @@ Enjoy,
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/featured%20projects.png?alt=media&token=5891590e-64b3-4d9b-a600-3a8c24240e0b "Optional title")
 
 
+![Alt text]( "Optional title")
+
+![Alt text]( "Optional title")
+
+![Alt text]( "Optional title")
+
+![Alt text]( "Optional title")
+
+![Alt text]( "Optional title")
+
+
 # Master List
 
 ## 110 -> [Chingu-Voyage B2L Cohort launched](https://trello.com/b/NthH1w5Z/chingu-voyage-jetpack)
 
 **Project Description**: Updating in progress...
 
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2FVoyagePrep-PacketTrelloJuly20.png?alt=media&token=99a8a6be-daa3-4b89-9850-bdf7bce71fa5 "Optional title")
+
 ## 109 -> [Giggle-bot](https://github.com/afixoftrix/giggle-bot)
 
 **Project Description**: Updating in progress...
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2FScreen%20Shot%202017-07-20%20at%202.46.18%20PM.png?alt=media&token=6d14dacf-28b2-403a-8e7a-5145e9fe378e "Optional title")
 
 ## 108 -> [Hipd Pets Lost & Found app](https://hipdlostandfound.herokuapp.com/)
 
 **Project Description**: Updating in progress...
 
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20Repo%20%232%20(started%20July%2020th%202017)%2FLost%26FoundApp.png?alt=media&token=5f33956c-3a55-4f91-b343-ff634fa5dba8 "Optional title")
+
 ## 107 -> [Baseball App](https://sandra-dudley.github.io/baseball-app/)
 
 **Project Description**: Updating in progress...
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20Repo%20%232%20(started%20July%2020th%202017)%2FBaseballApp.png?alt=media&token=c22b85e9-2341-4321-80e3-62cad41e237e "Optional title")
 
 ## 106 -> [Latex Notes](http://latexnotes.surge.sh/)
 
 **Project Description**: Updating in progress...
 
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20Repo%20%232%20(started%20July%2020th%202017)%2FLatexNotes.png?alt=media&token=2e45df62-856a-4cd5-b1b7-4fc86617a05b "Optional title")
+
 ## 105 -> [Pair-Programming bot](https://chingupp.herokuapp.com/)
 
 **Project Description**: Updating in progress...
+
+![Alt text]( "Optional title")
 
 ## 104 -> [Slack Meetup-bot](https://github.com/MeetupBotTeam/slack-meetup-bot)
 
@@ -63,6 +86,8 @@ Enjoy,
 
 **Project Description**: Updating in progress...
 
+![Alt text]( "Optional title")
+
 ## 102 -> [Fat Giants Graduate from YCombinator's Startup School](https://www.credential.net/9lu7mfnv) 
 
 **Project Description**: Updating in progress...
@@ -71,9 +96,13 @@ Enjoy,
 
 **Project Description**: Updating in progress...
 
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20Repo%20%232%20(started%20July%2020th%202017)%2FRegExClassroom.png?alt=media&token=abd99b17-dde8-49b7-bf7d-0d5a9b866c9c "Optional title")
+
 ## 100 -> [SportsNetwork](https://sportsnetwork2.herokuapp.com/) 
 
 **Project Description**: Updating in progress...
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20Repo%20%232%20(started%20July%2020th%202017)%2FSportsNetwork.png?alt=media&token=0af110fc-8a3a-4dd6-9487-142e6e20ffee "Optional title")
 
 ## 99 -> [Pinnie](https://github.com/jaroldwong/pinnie) 
 
@@ -90,6 +119,8 @@ Enjoy,
 ## 96 -> B2L Full-stack - [Codeploy](https://codeploy.herokuapp.com/) 
 
 **Project Description**: Updating in progress...
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20Repo%20%232%20(started%20July%2020th%202017)%2FCodeploy.png?alt=media&token=26741dbf-3f46-4c7b-b9b5-d398f308d1d5 "Optional title")
 
 ## 95 -> Organic Full-stack - [Libru](https://libru1.herokuapp.com/) 
 
@@ -119,9 +150,13 @@ Enjoy,
 
 **Project Description**: Updating in progress...
 
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20Repo%20%232%20(started%20July%2020th%202017)%2FQuincyAMA.png?alt=media&token=39be3db7-013a-44fb-b710-20926c1a3660 "Optional title")
+
 ## 88 -> [Organic - Matchbot using IBM's AI Watson's API](https://slackmatchbot.herokuapp.com/) 
 
 **Project Description**: Updating in progress...
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20Repo%20%232%20(started%20July%2020th%202017)%2FMatchBot.png?alt=media&token=95f89b01-fff6-4823-b87c-aa6cff7d8356 "Optional title")
 
 ## 87 -> [Operation Dagobah begins aka Cohort-Leads](https://giphy.com/gifs/dancing-dance-star-wars-6fScAIQR0P0xW) 
 
@@ -131,13 +166,19 @@ Enjoy,
 
 **Project Description**: Updating in progress...
 
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20Repo%20%232%20(started%20July%2020th%202017)%2FFCCBot.png?alt=media&token=fc7e7bf4-9154-4c92-90b0-3991b2642ed0 "Optional title")
+
 ## 85 -> [Organic - Slack n Study](https://pankaja-shree.github.io/sns-splash/) 
 
 **Project Description**: Updating in progress...
 
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20Repo%20%232%20(started%20July%2020th%202017)%2FSlackNStudy.png?alt=media&token=b7543cab-6886-4b45-84be-1c172cadf876 "Optional title")
+
 ## 84 -> [B2L - Temere Team-Name Generator bot](https://github.com/sego90/temere/) 
 
 **Project Description**: Updating in progress...
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20Repo%20%232%20(started%20July%2020th%202017)%2Ftemere.png?alt=media&token=aa06edfe-c709-4403-b107-e5c39000e98d "Optional title")
 
 ## 83 -> [B2L - Super ToDo bot](https://super-todo-bot.herokuapp.com/) 
 
@@ -161,11 +202,15 @@ Enjoy,
 
 ## 78 -> [B2L - NavBuddy](https://spark72018.github.io/travelBot/) 
 
-**Project Description**: Updating in progress...: 
+**Project Description**: Updating in progress...
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20Repo%20%232%20(started%20July%2020th%202017)%2FNavBuddy.png?alt=media&token=3778e68f-859d-4c2c-b865-fcf45858cced "Optional title")
 
 ## 77 -> [Organic - Slack Private Channel Bulk Inviter](https://matthew-burfield.github.io/private-channel-invite/) 
 
 **Project Description**: Updating in progress...
+
+![Alt text]( "Optional title")
 
 ## 76 -> [B2L- Momentum reverse-engineering](https://serene-stream-26049.herokuapp.com/) 
 
@@ -183,9 +228,13 @@ Enjoy,
 
 **Project Description**: Updating in progress...
 
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20Repo%20%232%20(started%20July%2020th%202017)%2FqBot.png?alt=media&token=5ab4ba99-e07a-4d4c-8e9b-36d4b3e57438 "Optional title")
+
 ## 72 -> [B2L - SaBOTage](https://sabotage-rhinos.herokuapp.com/) 
 
 **Project Description**: Updating in progress...
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20Repo%20%232%20(started%20July%2020th%202017)%2FSaBotage.png?alt=media&token=cfb511ac-0fb9-4e88-819b-f5c03717af36 "Optional title")
 
 ## 71 -> [B2L - Headline-bot](https://github.com/roxroy/laroxbot) 
 
@@ -243,6 +292,8 @@ Enjoy,
 ## 57 -> [Portal-app](https://slackteamportal.herokuapp.com/) 
 
 **Project Description**: Updating in progress... 
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20Repo%20%232%20(started%20July%2020th%202017)%2FPortal.png?alt=media&token=13dacc57-b14c-4390-8d51-38fe028f377c "Optional title")
 
 ## 56 -> [Chingu Runner](https://chingurunner.herokuapp.com/) 
 
