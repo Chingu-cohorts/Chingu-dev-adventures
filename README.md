@@ -170,8 +170,6 @@ Enjoy,
 
 **Project Description**: Updating in progress... 
 
-![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20Repo%20%232%20(started%20July%2020th%202017)%2FSuperToDobot.png?alt=media&token=7434c955-713a-4f9a-8f04-a05d976fe06b "Optional title")
-
 ## 82 -> [Chingu-AMA is born feat. Senior Dev Andy Glassman](https://medium.com/@icartusacrimea/chingu-senior-dev-guest-ama-no-1-309f8fdb68b2) 
 
 **Project Description**: Updating in progress...
@@ -197,8 +195,6 @@ Enjoy,
 ## 77 -> [Organic - Slack Private Channel Bulk Inviter](https://matthew-burfield.github.io/private-channel-invite/) 
 
 **Project Description**: Updating in progress...
-
-![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20Repo%20%232%20(started%20July%2020th%202017)%2FBulkinviter.png?alt=media&token=de325689-4db5-4f9a-8bd8-687607469f08 "Optional title")
 
 ## 76 -> [B2L- Momentum reverse-engineering](https://serene-stream-26049.herokuapp.com/) 
 
