@@ -54,7 +54,7 @@ Enjoy,
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20repo%2FScreen%20Shot%202017-07-20%20at%202.46.18%20PM.png?alt=media&token=6d14dacf-28b2-403a-8e7a-5145e9fe378e "Optional title")
 
-## 108 -> [Hipd Pets Lost & Found app](https://hipdlostandfound.herokuapp.com/)
+## 108 -> [Hip-D Pets Lost & Found app](https://hipdlostandfound.herokuapp.com/)
 
 **Project Description**: Updating in progress...
 
