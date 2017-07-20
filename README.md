@@ -112,8 +112,6 @@ Enjoy,
 
 **Project Description**: Updating in progress...
 
-![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20Repo%20%232%20(started%20July%2020th%202017)%2FLibru.png?alt=media&token=015001aa-d54e-4af3-8f52-481e90e643b5 "Optional title")
-
 ## 94 -> Milestone: [Chingu launches 1st Data Science cohort](#) 
 
 **Project Description**: Updating in progress...
