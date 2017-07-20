@@ -370,7 +370,7 @@ Here's the [FCC Speedrun publication](https://medium.com/chingu-fcc-speedrun), w
 
 **Project Leads**: Challenge designed by @p1xt
 
-## 48 -> [Who-bot](https://whobot.herokuapp.com/) 
+## 48 -> [Who-bot](http://belcurv.com/whobot/) 
 
 **Project Description**: This is essentially the Library of Alexandria for the Chingu cohorts, but instead of books, it houses skills. The offical description: whobot will "remember" the skills you give it, can tell you about another Slack team member's skills, and can tell you which other team members know a specific skill:
 
