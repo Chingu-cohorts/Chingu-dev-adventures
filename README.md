@@ -26,7 +26,6 @@ Enjoy,
 
 [@chance](https://medium.com/@tropicalchancer) 
 
-![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/featured%20projects.png?alt=media&token=5891590e-64b3-4d9b-a600-3a8c24240e0b "Optional title")
 
 
 # Master List
@@ -904,5 +903,5 @@ So, the Patakey app wasn't a team project, but it demands a place on this list n
 ![Alt text]( "Optional title")
 
 ![Alt text]( "Optional title")
-
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/featured%20projects.png?alt=media&token=5891590e-64b3-4d9b-a600-3a8c24240e0b "Optional title")
 
