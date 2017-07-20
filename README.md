@@ -113,6 +113,8 @@ Enjoy,
 
 **Project Description**: Updating in progress...
 
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20Repo%20%232%20(started%20July%2020th%202017)%2FLibru.png?alt=media&token=015001aa-d54e-4af3-8f52-481e90e643b5 "Optional title")
+
 ## 94 -> Milestone: [Chingu launches 1st Data Science cohort](#) 
 
 **Project Description**: Updating in progress...
@@ -171,6 +173,8 @@ Enjoy,
 
 **Project Description**: Updating in progress... 
 
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20Repo%20%232%20(started%20July%2020th%202017)%2FSuperToDobot.png?alt=media&token=7434c955-713a-4f9a-8f04-a05d976fe06b "Optional title")
+
 ## 82 -> [Chingu-AMA is born feat. Senior Dev Andy Glassman](https://medium.com/@icartusacrimea/chingu-senior-dev-guest-ama-no-1-309f8fdb68b2) 
 
 **Project Description**: Updating in progress...
@@ -197,11 +201,13 @@ Enjoy,
 
 **Project Description**: Updating in progress...
 
-![Alt text]( "Optional title")
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20Repo%20%232%20(started%20July%2020th%202017)%2FBulkinviter.png?alt=media&token=de325689-4db5-4f9a-8bd8-687607469f08 "Optional title")
 
 ## 76 -> [B2L- Momentum reverse-engineering](https://serene-stream-26049.herokuapp.com/) 
 
 **Project Description**: Updating in progress... 
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20Repo%20%232%20(started%20July%2020th%202017)%2FScreen%20Shot%202017-07-20%20at%203.37.48%20PM.png?alt=media&token=608fddf7-6241-421a-a944-5259ccb9cde8 "Optional title")
 
 ## 75 -> [Organic - Enron Data-set Fiesta](https://beemyfriend.github.io/Articles/exploring_enron_emails.html) 
 
@@ -230,6 +236,8 @@ Enjoy,
 ## 70 -> [B2L - Croak-bot Landing Page](https://chingusplashpage.github.io/SplashPage/) 
 
 **Project Description**: Updating in progress...
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/Projects%20Repo%20%232%20(started%20July%2020th%202017)%2FCroakbot.png?alt=media&token=fa4a9fce-81ea-4cd7-8468-a701c3a0746c "Optional title")
 
 ## 69 -> [B2L - Paypal Clone](https://github.com/chingu-coders/otters-b2l-splash-team-8) 
 
@@ -897,5 +905,4 @@ So, the Patakey app wasn't a team project, but it demands a place on this list n
 
 ![Alt text]( "Optional title")
 
-![Alt text]( "Optional title")
 
