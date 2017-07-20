@@ -26,6 +26,9 @@ Enjoy,
 
 [@chance](https://medium.com/@tropicalchancer) 
 
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/featured%20projects.png?alt=media&token=5891590e-64b3-4d9b-a600-3a8c24240e0b "Optional title")
+
+
 # Finished projects/ Milestones
 
 ## 94 -> B2L Full-stack - [Codeploy](https://codeploy.herokuapp.com/) 
