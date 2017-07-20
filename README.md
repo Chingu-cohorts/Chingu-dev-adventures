@@ -29,17 +29,6 @@ Enjoy,
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-ebd93.appspot.com/o/featured%20projects.png?alt=media&token=5891590e-64b3-4d9b-a600-3a8c24240e0b "Optional title")
 
 
-![Alt text]( "Optional title")
-
-![Alt text]( "Optional title")
-
-![Alt text]( "Optional title")
-
-![Alt text]( "Optional title")
-
-![Alt text]( "Optional title")
-
-
 # Master List
 
 ## 110 -> [Chingu-Voyage B2L Cohort launched](https://trello.com/b/NthH1w5Z/chingu-voyage-jetpack)
@@ -75,8 +64,6 @@ Enjoy,
 ## 105 -> [Pair-Programming bot](https://chingupp.herokuapp.com/)
 
 **Project Description**: Updating in progress...
-
-![Alt text]( "Optional title")
 
 ## 104 -> [Slack Meetup-bot](https://github.com/MeetupBotTeam/slack-meetup-bot)
 
@@ -902,5 +889,13 @@ So, the Patakey app wasn't a team project, but it demands a place on this list n
 [Here's a nice forum post](https://forum.freecodecamp.com/t/i-finished-all-3-fcc-certificates/82470)
  
 
+![Alt text]( "Optional title")
 
+![Alt text]( "Optional title")
+
+![Alt text]( "Optional title")
+
+![Alt text]( "Optional title")
+
+![Alt text]( "Optional title")
 
