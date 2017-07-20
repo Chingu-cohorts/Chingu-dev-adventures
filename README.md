@@ -30,7 +30,7 @@ Enjoy,
 
 # Master List
 
-## 110 -> [Chingu-Voyage B2L Cohort launched](https://trello.com/b/NthH1w5Z/chingu-voyage-jetpack)
+## 110 -> Chingu-Voyage B2L Cohort launched
 
 **Project Description**: Updating in progress...
 
