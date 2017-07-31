@@ -28,7 +28,7 @@ Enjoy,
 
 # Remote Team Dev projects currently in progress in Chingu: 
 
-90 (as of July 31st 2017 )
+90 (as of July 31st 2017)
 
 # Master List
 
