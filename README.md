@@ -26,9 +26,69 @@ Enjoy,
 
 [@chance](https://medium.com/@tropicalchancer) 
 
+# Remote Team Dev projects currently in progress in Chingu: 
 
+90 (as of July 31st 2017)
 
 # Master List
+
+## 121 -> [Dev-Gaido User-Testing of MVP in Chingu-Central](https://github.com/Chingu-cohorts/devgaido/issues)
+
+**Project Description**: Updating in progress...
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-master-list.appspot.com/o/Dev-gaido%20testing.png?alt=media&token=aee107b7-4162-488f-b628-9694d8af679f "Optional title")
+
+## 120 -> [Dev-Gaido MVP1](devgaido.com)
+
+**Project Description**: Updating in progress...
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-master-list.appspot.com/o/devGaido%20%20%20Home.png?alt=media&token=5bd2e232-8ee0-4132-ab8b-ea53e74ca0ab "Optional title")
+
+## 119 -> [Chingu Pair Programming Matcher w/ Slack integration](https://chingupp.herokuapp.com/)
+
+**Project Description**: Updating in progress...
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-master-list.appspot.com/o/Chingu%20PP.png?alt=media&token=045c05cf-ae1c-442e-acc5-cd55bf6ca4ad "Optional title")
+
+## 118 -> [TranslateBot using the Watson AI API](https://github.com/spark72018/chingu-translate-bot)
+
+**Project Description**: Updating in progress...
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-master-list.appspot.com/o/TranslateBot.png?alt=media&token=fb6b3f30-5b9e-4266-9ef6-835c6b9c4395 "Optional title")
+
+## 117 -> [InspireBot](https://github.com/spark72018/inspire-bot)
+
+**Project Description**: Updating in progress...
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-master-list.appspot.com/o/InspireBot.png?alt=media&token=4d608449-c80f-48e3-bd40-dd151420b39b "Optional title")
+
+## 116 -> [RSS bot](https://github.com/chingubotsteam5/rssbot)
+
+**Project Description**: Updating in progress...
+
+## 115 -> [Paypal Landing Page clone](https://github.com/krittiyaclark/Build.to.Learn.paypal.slack.team)
+
+**Project Description**: Updating in progress...
+
+## 114 -> [ValStringer Tool](https://github.com/the-vampiire/valStringer)
+
+**Project Description**: Updating in progress...
+
+## 113 -> [Callie Landing Page clone](http://serhii-css.com/callie-clone/)
+
+**Project Description**: Updating in progress...
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-master-list.appspot.com/o/Callie%20%20%20A%20Countdown%20Slack%20Bot.png?alt=media&token=0541aa3f-5627-44af-926f-8f450c269451 "Optional title")
+
+## 112 -> [IntroBot](https://intro-slack-bot.github.io/introbot-landing/)
+
+**Project Description**: Updating in progress...
+
+![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-master-list.appspot.com/o/introBot.png?alt=media&token=c27a6d9d-a6fb-4142-bfb4-02acef2b2f61 "Optional title")
+
+## 111 -> [Web-notes app](https://web-notes.herokuapp.com/about)
+
+**Project Description**: Updating in progress...
 
 ## 110 -> Chingu-Voyage B2L Cohort launched
 
