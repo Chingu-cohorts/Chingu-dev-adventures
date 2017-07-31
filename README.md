@@ -44,8 +44,6 @@ Enjoy,
 
 ![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-master-list.appspot.com/o/DevGaido.png?alt=media&token=666a11db-8d1f-4dc1-8498-a8be016cb7cd "Optional title")
 
-![Alt text](https://firebasestorage.googleapis.com/v0/b/chingu-master-list.appspot.com/o/devGaido%20%20%20Home.png?alt=media&token=5bd2e232-8ee0-4132-ab8b-ea53e74ca0ab "Optional title")
-
 ## 119 -> [Chingu Pair Programming Matcher w/ Slack integration](https://chingupp.herokuapp.com/)
 
 **Project Description**: Updating in progress...
