@@ -4,8 +4,6 @@
 <br>
 [Photograph by: Laurie-Anne Robert](https://unsplash.com/@laurieannerobert)
 
-_“We are made to create. We feel useful when we create. We release our ‘stuckness’ when we create. We reinvent our lives, tell new stories, and rebuild communities when we create. We reclaim our esteem, our muse, and our hope when we create.”_ — Pam Slim (feel free to exchange "create" with "build")
-
 # What is this place? 
 
 This README is kind of like one of those Indiana Jones jungle temples, but filled with tales of learning quests and links to mysterious repos instead of gems and ancient trinkets. It's where we show all the finished projects from the Chingu ecosystem. 
