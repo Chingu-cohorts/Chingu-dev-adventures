@@ -947,6 +947,9 @@ So, the Patakey app wasn't a team project, but it demands a place on this list n
 **Publication(s)** <br>
 [Here's a nice forum post](https://forum.freecodecamp.com/t/i-finished-all-3-fcc-certificates/82470)
  
+ TO add: 
+ 
+ vampiire + aos todo bot: http://super-todo-bot.herokuapp.com/
 
 ![Alt text]( "Optional title")
 
